@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xephoney
 - 👀 I’m interested in game and app development
 - 🌱 I’m currently learning React and C++
-- 💞️ I’m looking to collaborate on game projects, mobile applicaitons and websites. 
+- 💞️ I’m looking to collaborate on game projects, mobile applications and webservices. 
 - 📫 How to reach me: hans_olahoftun@hotmail.com
 
 <!---
