@@ -4,8 +4,8 @@
 - 📫 How to reach me: hans_olahoftun@hotmail.com
 
   - Software knowledge : 
-    Houdini
-    Unreal Engine 4 & 5
+    Houdini,
+    Unreal Engine and
     Blender
 <!---
 Xephoney/Xephoney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
