@@ -16,7 +16,8 @@ LinkedIn : https://www.linkedin.com/in/hans-ola-hoftun-b517b3230/
 - Portfolio :\
 [Grove Keeper](https://magnus2022.itch.io/grove-keeper-demo)\
 [Minitime Trailer](https://www.youtube.com/watch?v=HdfZchMF2Co)\
-[Game Engine Demo](https://youtu.be/syhzzIdVAc4)\
+[Game Engine Demo](https://youtu.be/syhzzIdVAc4)
+
 
 
 <!---
